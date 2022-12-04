@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+	font-family: "sans-serif";
+	background-color: #191919;
+	color: #e6e6e6;
+}
+
+button {
+	border-width: 0.5em;
+	font-family: "monospace";
+	color: #191919;
+	background-color: #e6e6e6;
+	border-color: #d5d5d5;
+}
